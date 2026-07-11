@@ -9,6 +9,13 @@ Atualmente, concentro meus estudos em Java, programação orientada a objetos, S
 Utilizo este GitHub para registrar minha evolução, compartilhar códigos, documentar meus estudos e desenvolver um portfólio cada vez mais completo.
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/pablo-rosário" target="_blank">
+        <img
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/pablorosario2?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
@@ -30,6 +37,7 @@ Utilizo este GitHub para registrar minha evolução, compartilhar códigos, docu
             src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
+
 </p>
 
 ---
@@ -50,13 +58,6 @@ Utilizo este GitHub para registrar minha evolução, compartilhar códigos, docu
  width="35px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/> <img
- align="left"
- alt="MySQL"
- title="MySQL"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 /> <img
  align="left"
  alt="Git"
