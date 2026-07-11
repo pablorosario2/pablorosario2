@@ -66,12 +66,12 @@ Utilizo este GitHub para registrar minha evolução, compartilhar códigos, docu
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 /> <img
- align="left"
- alt="GitHub"
- title="GitHub"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/github/181717/FFFFFF"
 /> <img
  align="left"
  alt="Visual Studio Code"
