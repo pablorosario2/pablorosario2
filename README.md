@@ -86,15 +86,7 @@ Utilizo este GitHub para registrar minha evolução, compartilhar códigos, docu
  width="35px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/> <img
- align="left"
- alt="Markdown"
- title="Markdown"
- width="35px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"
 />
-
 <br/>
 <br/>
 
